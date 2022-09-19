@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "fillr",
+    "oncran": true
+  }
+]

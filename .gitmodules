@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fillr"]
+	path = fillr
+	url = https://github.com/jelger12/fillr
+	shallow = true
+	registered = true
